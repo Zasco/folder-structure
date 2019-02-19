@@ -1,9 +1,30 @@
-# Folder system [v0.1.0.0] (2019-02-13)
+# Folder system [v0.1.0.1] (2019-02-13)
 
 ## Intro
 This project was created to provide advises on how to establish an efficient, reliable and scalable folder structure, whether for yourself or for an organisation. These advices are to be taken more like the result of a thorough analysis than the work of professionals in the matter. Although it was mainly designed for computer use, many of it's elements do apply for real physical applications. It aims at easing folder management and tries to be as agnostic as possible.
 
 >In this text, **( )** is used for info, **[ ]** for a parameter and **{ }** is optional;
+
+## Table of content
+### Folders and files management
+* [Concepts](#concepts)
+* [Organization](#organization)
+* [Naming](#naming)
+    * [Restrictions](#restrictions)
+    * [Timestamp](#timestamp)
+    * [Type](#type)
+    * [Description](#description)
+    * [Complete format](#complete-format)
+    * [Identifier generation](#identifier-generation)
+### Others
+* [Versioning](#versioning)
+* [Templating](#templating)
+* [Bundleing](#bundleing)
+* [Explaining](#explaining)
+* [Backuping](#backuping)
+* [Clouding](#clouding)
+* [Updating, transforming and renaming](#updating-transforming-and-renaming)
+
 
 ## Folders and files management
 Having a structure is essential to deploy, organise and retrieve efficiently what you have to. It can be divided in the various following chapters :
