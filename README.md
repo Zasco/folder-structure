@@ -22,6 +22,7 @@ This project was created to provide advises on how to establish an efficient, re
 * [Bundleing](#bundleing)
 * [Explaining](#explaining)
 * [Backuping](#backuping)
+* [Sharing](#sharing)
 * [Clouding](#clouding)
 * [Updating, transforming and renaming](#updating-transforming-and-renaming)
 
