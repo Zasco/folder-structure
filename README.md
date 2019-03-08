@@ -144,7 +144,7 @@ For a file description to be efficient, it has to be short yet expressive. This 
 #### Complete format
 **Parts** : `[timestamp]{_type}_[description]{_version}.<fileExtension>`
 
-**Regex** : `((\d{8})(-(\d{6}))?(-([A-Z]{2,5}))?)(_([a-zA-Z0-9]{2,5}))?_([a-zA-Z0-9\-]{1,50})((_(v\d*_\d*_\d*))?(_(d(raft)?\d*))?)??\.([a-z0-9]{2,10})$` (*only supports number markers versions so far*)
+**Regex** : `((\d{8})(-(\d{6}))?(-([A-Z]{3,5}))?)(_([a-zA-Z0-9]{2,5}))?_([a-zA-Z0-9\-]{1,50})((_(v\d*_\d*_\d*))?(_(d(raft)?\d*))?)??\.([a-z0-9]{2,10})$` (*only supports number markers versions so far*)
 
 **Format** : `[YYYYMMDD{-HHMMSS}{-ZZZ}]{_*****}_[**********]{_v*_*_*{_d*}}.***`
 
